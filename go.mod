@@ -1,4 +1,4 @@
-module github.com/dangersalad/go-user
+module github.com/cr8t/go-user
 
 require (
 	github.com/dangersalad/go-commonerror v0.1.2
